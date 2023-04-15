@@ -6,17 +6,22 @@ void swapp(int a[], int n){
     int temp;
 
     for(int i = 0; i<n; i+=2){
-        temp = a[i];
-        a[i] = a[i+1];
-        a[i+1] = temp;
+
+        // temp = a[i];
+        // a[i] = a[i+1];
+        // a[i+1] = temp;
+
+        swap(a[i],a[i+1]);
     }
 }
 
 void print(int a[], int n){
+    
     for(int i=0; i<n; i++){
         cout << a[i] << " ";
     }
     cout << endl;
+
 }
 
 int main(){
