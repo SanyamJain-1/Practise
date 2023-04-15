@@ -11,6 +11,7 @@ void swapp(int a[], int n){
         // a[i] = a[i+1];
         // a[i+1] = temp;
 
+        //With Inbuilt function
         swap(a[i],a[i+1]);
     }
 }
