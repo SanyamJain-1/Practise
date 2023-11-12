@@ -209,8 +209,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/VS Code/Cpp",
-      "program": "d:/VS Code/Cpp/build/Debug/outDebug",
+      "cwd": "d:/VS Code/DSA/Cpp",
+      "program": "d:/VS Code/DSA/Cpp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
